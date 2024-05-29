@@ -1,0 +1,149 @@
+.f1{
+    background-color: rgba(0, 0, 255, 0.205);
+}
+.f1  nav a {
+    margin-right: 85px;
+    
+    
+}
+.f1 nav a input{
+    width: 260px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+.f1 nav a button{
+    width: 100px;
+    height: 40ox;
+}
+.f1 nav a img{
+    font-size: 50px;
+
+}
+.f11{
+    background-color: antiquewhite;
+    text-decoration-color: black;
+}
+.f2{
+    margin-top: 0px;
+    background-color: antiquewhite;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    text-decoration: none;
+
+}
+.f2 nav a h6{
+    display: inline-block;
+    text-decoration: none;
+
+}
+.f2 nav a {
+    margin-right: 130px;
+    padding-top: 0px;
+
+    
+}
+.f2 nav a img{
+    width: 60px;
+    height: 120px;
+}
+.f3{
+    overflow: scroll;
+    height: 250px;
+    width:auto;
+    
+    
+}
+.f4{
+    
+}
+.f4 nav a h5{
+    display: inline-block;
+}
+.f4 nav a h5{
+    display: inline-block;
+    margin-right: 189px;
+    margin-top: 0px;
+}
+.f4 nav{
+}
+.f4 nav a img{
+  margin-top: 20px;
+    width: 160px;
+    height: 150px;
+margin-right: 100px;
+
+}
+.f5{
+    display: inline-block;
+    margin-right: 170px;
+
+}
+.f5 a{
+    margin-left: 30px;
+    text-decoration: none;
+
+}
+
+.f5 a ul li{
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.f6{
+    display: inline-block;
+    margin-right: 170px;
+    
+}
+.f6 a ul li{
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.f6 a{
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+
+.f7{
+    display: inline-block;
+    margin-right: 170px;
+}
+.f7 a ul li{
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.f7 a{
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+
+.f8{
+    display: inline-block;
+    margin-right: 170px;
+}
+.f8 a ul li{
+    margin-bottom: 10px;
+}
+.f8 a{
+    margin-left: 30px;
+    text-decoration: none;
+}
+.f10{
+    background-color: bisque;
+    text-decoration-color: black;
+    height: 200px;
+}
+.f13 a{
+    height: 200px;
+    background-color: black;
+}
+.f15{
+    overflow: scroll;
+    width: 1300px;
+}
+
+
+
+
+
+
